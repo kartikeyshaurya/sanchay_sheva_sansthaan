@@ -123,7 +123,6 @@
   
   
   .container-contact100 {
-
     width: 100%;  
     min-height: 100vh;
     display: -webkit-box;
@@ -136,8 +135,7 @@
     align-items: center;
     padding: 15px;
     position: relative;
-    background-color: #bdbdbd;
-    background-image: url("ba.png");
+    background-color:#221f1f;
   }
   
   .wrap-contact100 {
@@ -158,12 +156,11 @@
     display: block;
     font-family: Ubuntu-Bold;
     font-size: 30px;
-    color:whitesmoke;
+    color: #fafafd;
     line-height: 1.2;
     text-transform: uppercase;
     text-align: center;
     padding-bottom: 49px;
-    
   }
   
   .contact50-form-title {
