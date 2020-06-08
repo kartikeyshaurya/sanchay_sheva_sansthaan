@@ -135,7 +135,7 @@
     align-items: center;
     padding: 15px;
     position: relative;
-    background-color:#221f1f;
+    background-color: #bdbdbd;
   }
   
   .wrap-contact100 {
@@ -156,11 +156,12 @@
     display: block;
     font-family: Ubuntu-Bold;
     font-size: 30px;
-    color: #fafafd;
+    color:black;
     line-height: 1.2;
     text-transform: uppercase;
     text-align: center;
     padding-bottom: 49px;
+    
   }
   
   .contact50-form-title {
