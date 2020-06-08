@@ -123,6 +123,7 @@
   
   
   .container-contact100 {
+
     width: 100%;  
     min-height: 100vh;
     display: -webkit-box;
@@ -136,6 +137,7 @@
     padding: 15px;
     position: relative;
     background-color: #bdbdbd;
+    background-image: url("ba.png");
   }
   
   .wrap-contact100 {
@@ -156,7 +158,7 @@
     display: block;
     font-family: Ubuntu-Bold;
     font-size: 30px;
-    color:black;
+    color:whitesmoke;
     line-height: 1.2;
     text-transform: uppercase;
     text-align: center;
